@@ -6,4 +6,10 @@
 
 Welcome to this test of writing readme files from vscode
 
+*
+Here's a bullet point
+
+---
+
+
 
