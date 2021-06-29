@@ -16,3 +16,4 @@ print("Here is practice inserting code snippets")
 ```
 
 
+> "... Hell is empty and all of the broken code is up here"
