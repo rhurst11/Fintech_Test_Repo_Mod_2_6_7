@@ -11,8 +11,8 @@ Here's a bullet point
 
 ---
 
-'''python
+```python
 print("Here is practice inserting code snippets")
-'''
+```
 
 
